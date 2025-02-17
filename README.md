@@ -12,7 +12,7 @@ The **Employee Management System with Analytics** is a web-based platform design
 
 ## Technologies Used  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: Python, Flask  
+- **Backend**: Python, Django  
 - **Database**: MySQL  
 - **Regression Model**: Scikit-learn, Pandas  
 - **Analytics Dashboard**: Chart.js, Plotly  
